@@ -1,0 +1,21 @@
+.ant-table table{
+    border: 1px solid #00923F;
+}
+.ant-table-thead > tr > th{
+    color: white;
+    background-color: #00923F;
+}
+.ant-table-tbody > tr > td{
+    border-radius: 0px;
+}
+.ant-table-thead > tr > th.ant-table-column-has-actions.ant-table-column-has-sorters:hover {
+    background-color: #00923F;
+}
+
+.ant-table-thead > tr > th .ant-table-column-sorter .ant-table-column-sorter-inner{
+    color : white;
+}
+
+.ant-table-thead > tr > th.ant-table-column-sort{
+    background-color: #00923F;
+}
